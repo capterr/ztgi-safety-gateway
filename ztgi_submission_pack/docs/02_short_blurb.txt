@@ -1,0 +1,1 @@
+ZTGI Safety Gateway is a runtime AI safety layer that gates model outputs with measurable risk signals and hard-block rules. It is designed to reduce actionable harmful outputs and sycophancy/roleplay drift beyond prompt-only safety. We already have live stress-test evidence and now seek funding to scale to independent benchmarks and public reproducibility.
